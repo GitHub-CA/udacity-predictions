@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/Schitiz/udacity-predictions.svg?style=svg)](https://circleci.com/gh/Schitiz/udacity-predictions)
 
 ## Project Overview
 
